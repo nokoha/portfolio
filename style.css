@@ -1,0 +1,124 @@
+body{
+	height: 1600px;
+	width: 1000px;
+	background-color: #343f55;
+}
+
+header{
+	background-color: #343f55;
+	margin: 0 auto;
+	width: 100%;
+	margin-bottom: 130px;
+	margin-top: 10px
+	color: #efcc8e;
+	border-top: 10px solid #efcc8e;
+	border-bottom: 10px solid #efcc8e;
+}
+
+
+header h1{
+	color: #efcc8e;
+	text-align: center;
+	line-height: 10px;
+}
+
+.nakami{
+	margin: 0 auto;
+	width: 85%;
+}
+
+.nakami h1{
+	background-color: #bbbbbb;
+	font-size: 25px;
+	color: #343f55;
+	transition: 0.5s;
+	border: 10px solid #aaaaaa;
+	text-align: center;
+}
+
+.nakami h1:hover{
+	background-color: #343f55;
+	color: #efcc8e;
+}
+
+.mark{
+	display: block;
+	height: 300px;
+	background-color: #aaaaaa;
+	border-right: 2px solid #efcc8e;
+	border-left: 2px solid #efcc8e;
+	margin-bottom: 60px;
+}
+
+.taipo{
+	display: block;
+	height: 300px;
+	background-color: #aaaaaa;
+	border-right: 2px solid #efcc8e;
+	border-left: 2px solid #efcc8e;
+	margin-bottom: 60px;
+}
+
+.sonota{
+	display: block;
+	height: 500px;
+	background-color: #aaaaaa;
+	border-right: 2px solid #efcc8e;
+	border-left: 2px solid #efcc8e;
+	margin-bottom: 60px;
+}
+
+.nakami a{
+	color: #343f55;
+	transition: 0.5s;
+}
+
+.nakami a:hover{
+	color: #efcc8e;
+}
+
+.A{
+	height: 200px;
+	margin-left: 20px;
+	border: 2px solid #efcc8e;
+}
+
+.B{
+	height: 200px;
+	margin-left: 20px;
+	border: 2px solid #efcc8e;
+}
+
+.C{
+	height: 400px;
+	margin-left: 20px;
+	border: 2px solid #efcc8e;
+}
+
+footer{
+	border-top: 5px solid #bbbbbb;
+	border-bottom: 10px solid #efcc8e;
+	margin: 0 auto;
+	width: 100%;
+	height: 50px;
+	margin-top: 130px;
+}
+
+footer a{
+	color: #bbbbbb;
+	font-size: 22px;
+	margin-left: 30px;
+	text-decoration: none;
+	float: left;
+	font-weight: bold;
+	transition: 0.5s;
+}
+
+footer p:hover{
+	color: #efcc8e;
+}
+
+.top{
+	float: right;
+	margin-right: 30px;
+}
